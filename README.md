@@ -19,6 +19,7 @@ Ben Dattilio
 
 Will Im 
 - <a rel="license" href="https://github.com/willjcim">Github</a>
+- <a rel="license" href="https://gitlab.com/willjcim">Gitlab</a>
 - <a rel="license" href="https://www.linkedin.com/in/william-im/">LinkedIn</a>
 
 ## Disclaimer
