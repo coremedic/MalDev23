@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Day 00</h1>
   <br/>
-  - <a rel="license" href="https://docs.google.com/presentation/d/1xUbeikhrU6CanNEh1als6HEK0jxHaM4u3yvStBv6k_8/edit?usp=sharing">Slides</a>
-  - <a rel="license" href="https://www.youtube.com/watch?v=9Ky_Hy4N7zI">Recording</a>
 
 </div>
 
+  - <a rel="license" href="https://docs.google.com/presentation/d/1xUbeikhrU6CanNEh1als6HEK0jxHaM4u3yvStBv6k_8/edit?usp=sharing">Slides</a>
+  - <a rel="license" href="https://www.youtube.com/watch?v=9Ky_Hy4N7zI">Recording</a>
