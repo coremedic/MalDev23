@@ -22,8 +22,13 @@ func main() {
 	}
 
 	// print encrypted shellcode in \xNN format
-	for _, b := range encryptedShellcode {
+	fmt.Printf("\"")
+	for i, b := range encryptedShellcode {
 		fmt.Printf("\\x%02x", b)
+		if (i%20 == 0) && i != 0 {
+			fmt.Printf("\"\n\"")
+		}
 	}
+	fmt.Printf("\"")
 	fmt.Println()
 }
