@@ -407,3 +407,5 @@ FodyWeavers.xsd
 # bin dirs
 **/x64/**
 **/x86/**
+.idea/*
+cmake-build-debug/**
