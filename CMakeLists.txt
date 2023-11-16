@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -static-libstdc++ -static-libgcc")
 
 add_executable(MalDev23
-        day-06/lab-09/main.cpp)
+        day-07/lab-10/main.cpp)
